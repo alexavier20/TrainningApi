@@ -8,4 +8,8 @@
     <Folder Include="AppServices\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TrainningApi.Domain\TrainningApi.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
