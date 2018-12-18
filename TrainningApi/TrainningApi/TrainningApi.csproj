@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TrainningApi.Application\TrainningApi.Application.csproj" />
     <ProjectReference Include="..\TrainningApi.Infrastructure\TrainningApi.Infrastructure.csproj" />
   </ItemGroup>
 

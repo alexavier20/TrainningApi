@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TrainningApi.Domain.Entities
+﻿namespace TrainningApi.Domain.DTO
 {
     [Serializable]
-    public class ExampleItem
+    public class DTOExampleItem
     {
         public int Id { get; set; }
         public string Name { get; set; }
